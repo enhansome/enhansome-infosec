@@ -1,6 +1,6 @@
 # Awesome Infosec with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,053 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,127 | 🐛 100 | 📅 2026-06-30
 
 A curated list of awesome information security resources, inspired by the awesome-\* trend on GitHub.
 
@@ -655,7 +655,7 @@ XVWA is a badly coded web application written in PHP/MySQL that helps security e
 
 WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
 
-* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,277 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-10
+* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,277 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-10
 
 ## Audi-1's SQLi-LABS
 
@@ -803,34 +803,34 @@ This is a course in defensive security.
 
 # Related Awesome Lists
 
-* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 72,812 | 🐛 12 | 🌐 PHP | 📅 2026-08-12<br>
+* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 72,816 | 🐛 12 | 🌐 PHP | 📅 2026-08-12<br>
   SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,874 | 🐛 99 | 📅 2026-07-25<br>
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,879 | 🐛 99 | 📅 2026-07-25<br>
   A collection of awesome penetration testing resources, tools and other shiny things.
 
-* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,853 | 🐛 69 | 📅 2024-06-02<br>
+* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,854 | 🐛 69 | 📅 2024-06-02<br>
   A curated list of awesome Hacking tutorials, tools and resources.
 
 * [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,743 | 🐛 301 | 📅 2026-01-11<br>
   A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,114 | 🐛 25 | 📅 2024-06-07<br>
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,113 | 🐛 25 | 📅 2024-06-07<br>
   A curated list of awesome malware analysis tools and resources.
 
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,750 | 🐛 64 | 🌐 JavaScript | 📅 2024-07-22<br>
   A curated list of CTF frameworks, libraries, resources and softwares.
 
-* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,529 | 🐛 114 | 📅 2026-05-31<br>
+* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,528 | 🐛 114 | 📅 2026-05-31<br>
   A curated list of awesome Threat Intelligence resources.
 
 * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,517 | 🐛 20 | 🌐 Python | 📅 2026-06-01<br>
   A curated list of awesome honeypots, tools, components and much more.
 
-* [Android Security Awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,603 | 🐛 2 | 🌐 Makefile | 📅 2026-08-10<br>
+* [Android Security Awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,604 | 🐛 2 | 🌐 Makefile | 📅 2026-08-10<br>
   A collection of android security related resources.
 
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,317 | 🐛 73 | 📅 2026-07-15<br>
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,318 | 🐛 73 | 📅 2026-07-15<br>
   A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
 * [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,230 | 🐛 9 | 📅 2026-07-26<br>
