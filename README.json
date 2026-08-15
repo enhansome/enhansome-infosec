@@ -62,7 +62,7 @@
             "last_commit": "2018-10-02T15:40:39Z",
             "owner": "ctfs",
             "repo": "write-ups-2016",
-            "stars": 1626
+            "stars": 1627
           }
         },
         {
@@ -84,7 +84,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:02:48.395Z",
+    "last_updated": "2026-08-15T07:17:01.478Z",
     "original_repository": "onlurking/awesome-infosec",
     "original_repository_sha": "4e05df2170086298bf7c3623b21598fe325f2ba6",
     "enhanced_repository": "enhansome/enhansome-infosec",
