@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "description": "",
+      "items": [],
+      "title": "University of Maryland - Software Security"
+    },
+    {
       "description": "OpenSecurityTraining.info is dedicated to sharing training material for computer security classes, on any topic, that are at least one day long.",
       "items": [],
       "title": "Open Security Training"
@@ -62,7 +67,7 @@
             "last_commit": "2018-10-02T15:40:39Z",
             "owner": "ctfs",
             "repo": "write-ups-2016",
-            "stars": 1627
+            "stars": 1628
           }
         },
         {
@@ -84,9 +89,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:17:01.478Z",
+    "last_updated": "2026-08-16T07:18:35.335Z",
     "original_repository": "onlurking/awesome-infosec",
-    "original_repository_sha": "4e05df2170086298bf7c3623b21598fe325f2ba6",
+    "original_repository_sha": "925319833de5dc7a16040656289c18bc6772782e",
     "enhanced_repository": "enhansome/enhansome-infosec",
     "enhanced_repository_description": null,
     "title": "Awesome Infosec with stars"
