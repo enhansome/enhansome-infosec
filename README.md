@@ -1,6 +1,6 @@
 # Awesome Infosec with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,541 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,663 | 🐛 102 | 📅 2026-08-18
 
 A curated list of awesome information security resources, inspired by the awesome-\* trend on GitHub.
 
@@ -50,11 +50,11 @@ This course focuses on how to design and build secure systems with a human-centr
 
 #### Offensive Security & AI Red Team Frameworks
 
-* [Violin](https://github.com/Strategic-Automation/violin) ⭐ 71 | 🐛 10 | 🌐 Python | 📅 2026-08-18 - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+* [Violin](https://github.com/Strategic-Automation/violin) ⭐ 72 | 🐛 10 | 🌐 Python | 📅 2026-08-18 - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
 
 #### Offensive Security & AI Red Team Frameworks
 
-* [Violin](https://github.com/Strategic-Automation/violin) ⭐ 71 | 🐛 10 | 🌐 Python | 📅 2026-08-18 - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+* [Violin](https://github.com/Strategic-Automation/violin) ⭐ 72 | 🐛 10 | 🌐 Python | 📅 2026-08-18 - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
 
 This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems.
 
@@ -620,7 +620,7 @@ Learn the fundamentals of Binary Auditing. Know how HLL mapping works, get more 
 
 Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
 
-* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA) ⭐ 13,509 | 🐛 7 | 🌐 PHP | 📅 2026-08-07
+* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA) ⭐ 13,509 | 🐛 8 | 🌐 PHP | 📅 2026-08-07
 
 ## Damn Vulnerable Web Services
 
@@ -668,7 +668,7 @@ XVWA is a badly coded web application written in PHP/MySQL that helps security e
 
 WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
 
-* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,283 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-14
+* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,284 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-14
 
 ## Audi-1's SQLi-LABS
 
@@ -816,16 +816,16 @@ This is a course in defensive security.
 
 # Related Awesome Lists
 
-* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 72,921 | 🐛 12 | 🌐 PHP | 📅 2026-08-18<br>
+* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 72,930 | 🐛 12 | 🌐 PHP | 📅 2026-08-19<br>
   SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,935 | 🐛 99 | 📅 2026-07-25<br>
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,943 | 🐛 99 | 📅 2026-07-25<br>
   A collection of awesome penetration testing resources, tools and other shiny things.
 
-* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,898 | 🐛 68 | 📅 2024-06-02<br>
+* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,899 | 🐛 68 | 📅 2024-06-02<br>
   A curated list of awesome Hacking tutorials, tools and resources.
 
-* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,765 | 🐛 309 | 📅 2026-01-11<br>
+* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,766 | 🐛 309 | 📅 2026-01-11<br>
   A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,133 | 🐛 25 | 📅 2024-06-07<br>
@@ -843,13 +843,13 @@ This is a course in defensive security.
 * [Android Security Awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,618 | 🐛 2 | 🌐 Makefile | 📅 2026-08-17<br>
   A collection of android security related resources.
 
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,336 | 🐛 74 | 📅 2026-07-15<br>
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,338 | 🐛 74 | 📅 2026-07-15<br>
   A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
-* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,236 | 🐛 7 | 📅 2026-08-13<br>
+* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,235 | 🐛 7 | 📅 2026-08-13<br>
   This list is for anyone wishing to learn about web application security but do not have a starting point.
 
-* [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,033 | 🐛 40 | 🌐 PHP | 📅 2025-02-22<br>
+* [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,034 | 🐛 40 | 🌐 PHP | 📅 2025-02-22<br>
   A curated list of resources for learning about application security.
 
 * [Awesome Forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,161 | 🐛 6 | 📅 2026-05-14<br>
