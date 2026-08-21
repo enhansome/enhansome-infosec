@@ -85,10 +85,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-19T10:33:47Z",
+            "last_commit": "2026-08-20T10:36:04Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72945
+            "stars": 72962
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26950
+            "stars": 26963
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16906
+            "stars": 16915
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14769
+            "stars": 14773
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14135
+            "stars": 14142
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11771
+            "stars": 11777
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10547
+            "stars": 10552
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10522
+            "stars": 10526
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-19T15:34:21Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9619
+            "stars": 9626
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9340
+            "stars": 9345
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-13T15:21:19Z",
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7238
+            "stars": 7239
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2025-02-22T16:39:11Z",
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7035
+            "stars": 7036
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-05-14T21:15:16Z",
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5162
+            "stars": 5161
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2026-06-15T19:57:31Z",
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4256
+            "stars": 4258
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2025-10-10T09:48:06Z",
             "owner": "hslatman",
             "repo": "awesome-industrial-control-system-security",
-            "stars": 2001
+            "stars": 2003
           }
         }
       ],
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:27:50.470Z",
+    "last_updated": "2026-08-21T07:29:21.936Z",
     "original_repository": "onlurking/awesome-infosec",
     "original_repository_id": 35577029,
     "original_repository_sha": "925319833de5dc7a16040656289c18bc6772782e",
