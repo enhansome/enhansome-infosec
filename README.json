@@ -85,10 +85,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-20T10:36:04Z",
+            "last_commit": "2026-08-21T14:16:14Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72962
+            "stars": 72986
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26963
+            "stars": 26979
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16915
+            "stars": 16919
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14773
+            "stars": 14783
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14142
+            "stars": 14146
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11777
+            "stars": 11778
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10552
+            "stars": 10554
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10526
+            "stars": 10525
           }
         },
         {
@@ -205,10 +205,10 @@
             "archived": false,
             "id": 22117770,
             "language": "Makefile",
-            "last_commit": "2026-08-19T15:34:21Z",
+            "last_commit": "2026-08-21T18:33:19Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9626
+            "stars": 9628
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9345
+            "stars": 9346
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-13T15:21:19Z",
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7239
+            "stars": 7241
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2025-02-22T16:39:11Z",
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7036
+            "stars": 7037
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-05-14T21:15:16Z",
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5161
+            "stars": 5160
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2026-06-15T19:57:31Z",
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4258
+            "stars": 4259
           }
         },
         {
@@ -298,7 +298,7 @@
             "last_commit": "2026-02-17T13:14:58Z",
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
-            "stars": 4229
+            "stars": 4230
           }
         },
         {
@@ -313,7 +313,7 @@
             "last_commit": "2025-09-03T07:24:40Z",
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3413
+            "stars": 3414
           }
         },
         {
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:29:21.936Z",
+    "last_updated": "2026-08-22T07:19:25.265Z",
     "original_repository": "onlurking/awesome-infosec",
     "original_repository_id": 35577029,
     "original_repository_sha": "925319833de5dc7a16040656289c18bc6772782e",
