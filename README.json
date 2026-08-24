@@ -7,6 +7,266 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Violin",
+              "description": "AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1291466723,
+                "language": "Python",
+                "last_commit": "2026-08-23T13:51:55Z",
+                "owner": "Strategic-Automation",
+                "repo": "violin",
+                "stars": 78
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Offensive Security & AI Red Team Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Violin",
+              "description": "AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1291466723,
+                "language": "Python",
+                "last_commit": "2026-08-23T13:51:55Z",
+                "owner": "Strategic-Automation",
+                "repo": "violin",
+                "stars": 78
+              }
+            }
+          ],
+          "description": "This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a \"build security in\" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems.",
+          "node_type": "group",
+          "title": "Offensive Security & AI Red Team Frameworks"
+        }
+      ],
+      "title": "Massive Online Open Courses"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NYU Tandon's OSIRIS Lab's Hack Night",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10182200,
+                "language": "Python",
+                "last_commit": "2024-04-05T02:11:57Z",
+                "owner": "osirislab",
+                "repo": "Hack-Night",
+                "stars": 1273
+              }
+            }
+          ],
+          "description": "Developed from the materials of NYU Tandon's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.",
+          "node_type": "group",
+          "title": "NYU Tandon School of Engineering - OSIRIS Lab's Hack Night"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CSCI 4976 - Fall '15 Malware Analysis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49282041,
+                "language": null,
+                "last_commit": "2022-08-26T22:56:18Z",
+                "owner": "RPISEC",
+                "repo": "Malware",
+                "stars": 4056
+              }
+            }
+          ],
+          "description": "This course will introduce students to modern malware analysis techniques through readings and hands-on interactive analysis of real-world samples. After taking this course students will be equipped with the skills to analyze advanced contemporary malware using both static and dynamic analysis.",
+          "node_type": "group",
+          "title": "Rensselaer Polytechnic Institute - Malware Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CSCI 4968 - Spring '15 Modern Binary Exploitation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37784277,
+                "language": "C",
+                "last_commit": "2021-12-09T17:20:50Z",
+                "owner": "RPISEC",
+                "repo": "MBE",
+                "stars": 6032
+              }
+            }
+          ],
+          "description": "This course will start off by covering basic x86 reverse engineering, vulnerability analysis, and classical forms of Linux-based userland binary exploitation. It will then transition into protections found on modern systems (Canaries, DEP, ASLR, RELRO, Fortify Source, etc) and the techniques used to defeat them. Time permitting, the course will also cover other subjects in exploitation including kernel-land and Windows based exploitation.",
+          "node_type": "group",
+          "title": "Rensselaer Polytechnic Institute - Modern Binary Exploitation"
+        }
+      ],
+      "title": "Academic Courses"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Damn Vulnerable Web Application (DVWA)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9791525,
+                "language": "PHP",
+                "last_commit": "2026-08-19T13:12:21Z",
+                "owner": "digininja",
+                "repo": "DVWA",
+                "stars": 13535
+              }
+            }
+          ],
+          "description": "Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.",
+          "node_type": "group",
+          "title": "Damn Vulnerable Web Application (DVWA)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Damn Vulnerable Web Services",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 49496640,
+                "language": "PHP",
+                "last_commit": "2021-12-06T00:15:00Z",
+                "owner": "snoopysecurity",
+                "repo": "dvws",
+                "stars": 461
+              }
+            }
+          ],
+          "description": "Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities. The aim of this project is to help security professionals learn about Web Application Security through the use of a practical lab environment.",
+          "node_type": "group",
+          "title": "Damn Vulnerable Web Services"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OWASP Hackademic Challenges project",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 5924647,
+                "language": "PHP",
+                "last_commit": "2020-10-30T14:00:21Z",
+                "owner": "Hackademic",
+                "repo": "hackademic",
+                "stars": 325
+              }
+            }
+          ],
+          "description": "The Hackademic Challenges implement realistic scenarios with known vulnerabilities in a safe and controllable environment. Users can attempt to discover and exploit these vulnerabilities in order to learn important concepts of information security through an attacker's perspective.",
+          "node_type": "group",
+          "title": "OWASP Hackademic Challenges Project"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Xtreme Vulnerable Web Application (XVWA)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 44470991,
+                "language": "PHP",
+                "last_commit": "2020-09-12T17:26:24Z",
+                "owner": "s4n7h0",
+                "repo": "xvwa",
+                "stars": 1763
+              }
+            }
+          ],
+          "description": "XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security. It’s not advisable to host this application online as it is designed to be “Xtremely Vulnerable”. We recommend hosting this application in local/controlled environment and sharpening your application security ninja skills with any tools of your own choice. It’s totally legal to break or hack into this. The idea is to evangelize web application security to the community in possibly the easiest and fundamental way. Learn and acquire these skills for good purpose. How you use these skills and knowledge base is not our responsibility.",
+          "node_type": "group",
+          "title": "Xtreme Vulnerable Web Application (XVWA)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WebGoat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31771754,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T09:53:59Z",
+                "owner": "WebGoat",
+                "repo": "WebGoat",
+                "stars": 9289
+              }
+            }
+          ],
+          "description": "WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.",
+          "node_type": "group",
+          "title": "WebGoat: A deliberately insecure Web Application"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQLi-LABS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4380514,
+                "language": "PHP",
+                "last_commit": "2023-12-11T17:06:16Z",
+                "owner": "Audi-1",
+                "repo": "sqli-labs",
+                "stars": 5834
+              }
+            }
+          ],
+          "description": "SQLi-LABS is a comprehensive test bed to Learn and understand nitti gritty of SQL injections and thereby helps professionals understand how to protect.",
+          "node_type": "group",
+          "title": "Audi-1's SQLi-LABS"
+        }
+      ],
+      "title": "Laboratories"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "CTF write-ups 2015",
               "description": "Wiki-like CTF write-ups repository, maintained by the community. (2015)",
               "children": [],
@@ -77,6 +337,56 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LaTeX Source",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15472738,
+                "language": "Python",
+                "last_commit": "2023-09-04T19:44:41Z",
+                "owner": "crypto101",
+                "repo": "book",
+                "stars": 3741
+              }
+            }
+          ],
+          "description": "Comes with everything you need to understand complete systems such as SSL/TLS: block ciphers, stream ciphers, hash functions, message authentication codes, public key encryption, key agreement protocols, and signature algorithms. Learn how to exploit common cryptographic flaws, armed with nothing but a little time and your favorite programming language. Forge administrator cookies, recover passwords, and even backdoor your own random number generator.",
+          "node_type": "group",
+          "title": "Crypto 101 - lvh"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Markdown Source",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19956920,
+                "language": "C",
+                "last_commit": "2024-11-15T16:52:18Z",
+                "owner": "trailofbits",
+                "repo": "ctf",
+                "stars": 1437
+              }
+            }
+          ],
+          "description": "The focus areas that CTF competitions tend to measure are vulnerability discovery, exploit creation, toolkit creation, and operational tradecraft.. Whether you want to succeed at CTF, or as a computer security professional, you'll need to become an expert in at least one of these disciplines. Ideally in all of them.",
+          "node_type": "group",
+          "title": "CTF Field Guide - Trail of Bits"
+        }
+      ],
+      "title": "Open Security Books"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Sec Lists",
           "description": "SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.",
@@ -85,10 +395,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-23T11:08:38Z",
+            "last_commit": "2026-08-24T11:12:01Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73032
+            "stars": 73037
           }
         },
         {
@@ -118,7 +428,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16928
+            "stars": 16929
           }
         },
         {
@@ -133,7 +443,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14790
+            "stars": 14791
           }
         },
         {
@@ -148,7 +458,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14151
+            "stars": 14149
           }
         },
         {
@@ -163,7 +473,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11790
+            "stars": 11791
           }
         },
         {
@@ -178,7 +488,7 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10565
+            "stars": 10568
           }
         },
         {
@@ -208,7 +518,7 @@
             "last_commit": "2026-08-21T18:33:19Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9635
+            "stars": 9638
           }
         },
         {
@@ -223,7 +533,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9348
+            "stars": 9349
           }
         },
         {
@@ -268,7 +578,7 @@
             "last_commit": "2026-08-23T09:53:20Z",
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5162
+            "stars": 5163
           }
         },
         {
@@ -283,7 +593,7 @@
             "last_commit": "2026-06-15T19:57:31Z",
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4259
+            "stars": 4260
           }
         },
         {
@@ -333,10 +643,31 @@
         }
       ],
       "title": "Related Awesome Lists"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Pull requests and issues with suggestions are welcome!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 35577029,
+            "language": null,
+            "last_commit": "2026-08-15T16:05:29Z",
+            "owner": "onlurking",
+            "repo": "awesome-infosec",
+            "stars": 5723
+          },
+          "title": "Contributing"
+        }
+      ],
+      "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:44:56.081Z",
+    "last_updated": "2026-08-24T13:56:19.774Z",
     "original_repository": "onlurking/awesome-infosec",
     "original_repository_id": 35577029,
     "original_repository_sha": "925319833de5dc7a16040656289c18bc6772782e",
