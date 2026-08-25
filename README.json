@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-23T13:51:55Z",
                 "owner": "Strategic-Automation",
                 "repo": "violin",
-                "stars": 78
+                "stars": 79
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-23T13:51:55Z",
                 "owner": "Strategic-Automation",
                 "repo": "violin",
-                "stars": 78
+                "stars": 79
               }
             }
           ],
@@ -227,7 +227,7 @@
                 "last_commit": "2026-08-24T09:53:59Z",
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9289
+                "stars": 9290
               }
             }
           ],
@@ -398,7 +398,7 @@
             "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73050
+            "stars": 73051
           }
         },
         {
@@ -428,7 +428,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16933
+            "stars": 16934
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14792
+            "stars": 14793
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14153
+            "stars": 14155
           }
         },
         {
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:11.095Z",
+    "last_updated": "2026-08-25T07:31:00.071Z",
     "original_repository": "onlurking/awesome-infosec",
     "original_repository_id": 35577029,
     "original_repository_sha": "925319833de5dc7a16040656289c18bc6772782e",
