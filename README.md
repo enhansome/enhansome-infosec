@@ -1,6 +1,6 @@
 # Awesome Infosec with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,364 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,457 | 🐛 105 | 📅 2026-08-21
 
 A curated list of awesome information security resources, inspired by the awesome-\* trend on GitHub.
 
@@ -116,13 +116,13 @@ The first half of this course focuses on know protocols while the second half of
 
 This course will introduce students to modern malware analysis techniques through readings and hands-on interactive analysis of real-world samples. After taking this course students will be equipped with the skills to analyze advanced contemporary malware using both static and dynamic analysis.
 
-* [CSCI 4976 - Fall '15 Malware Analysis](https://github.com/RPISEC/Malware) ⭐ 4,059 | 🐛 1 | 📅 2022-08-26
+* [CSCI 4976 - Fall '15 Malware Analysis](https://github.com/RPISEC/Malware) ⭐ 4,062 | 🐛 1 | 📅 2022-08-26
 
 #### Rensselaer Polytechnic Institute - Modern Binary Exploitation
 
 This course will start off by covering basic x86 reverse engineering, vulnerability analysis, and classical forms of Linux-based userland binary exploitation. It will then transition into protections found on modern systems (Canaries, DEP, ASLR, RELRO, Fortify Source, etc) and the techniques used to defeat them. Time permitting, the course will also cover other subjects in exploitation including kernel-land and Windows based exploitation.
 
-* [CSCI 4968 - Spring '15 Modern Binary Exploitation](https://github.com/RPISEC/MBE) ⭐ 6,034 | 🐛 11 | 🌐 C | 📅 2021-12-09
+* [CSCI 4968 - Spring '15 Modern Binary Exploitation](https://github.com/RPISEC/MBE) ⭐ 6,036 | 🐛 11 | 🌐 C | 📅 2021-12-09
 
 #### Rensselaer Polytechnic Institute - Hardware Reverse Engineering
 
@@ -620,7 +620,7 @@ Learn the fundamentals of Binary Auditing. Know how HLL mapping works, get more 
 
 Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
 
-* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA) ⭐ 13,553 | 🐛 8 | 🌐 PHP | 📅 2026-08-19
+* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA) ⭐ 13,556 | 🐛 8 | 🌐 PHP | 📅 2026-08-19
 
 ## Damn Vulnerable Web Services
 
@@ -668,7 +668,7 @@ XVWA is a badly coded web application written in PHP/MySQL that helps security e
 
 WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
 
-* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,293 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-24
+* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,296 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-24
 
 ## Audi-1's SQLi-LABS
 
@@ -701,7 +701,7 @@ When something is added to VulnHub's database it will be indexed as best as poss
 * [CTF write-ups 2015](https://github.com/ctfs/write-ups-2015) ⭐ 1,998 | 🐛 59 | 🌐 CSS | 📅 2022-08-27<br>
   Wiki-like CTF write-ups repository, maintained by the community. (2015)
 
-* [CTF write-ups 2014](https://github.com/ctfs/write-ups-2014) ⭐ 1,855 | 🐛 17 | 🌐 Python | 📅 2016-04-27<br>
+* [CTF write-ups 2014](https://github.com/ctfs/write-ups-2014) ⭐ 1,856 | 🐛 17 | 🌐 Python | 📅 2016-04-27<br>
   Wiki-like CTF write-ups repository, maintained by the community. (2014)
 
 * [CTF write-ups 2016](https://github.com/ctfs/write-ups-2016) ⭐ 1,627 | 🐛 230 | 🌐 C | 📅 2018-10-02<br>
@@ -816,22 +816,22 @@ This is a course in defensive security.
 
 # Related Awesome Lists
 
-* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 73,120 | 🐛 13 | 🌐 PHP | 📅 2026-08-26<br>
+* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 73,125 | 🐛 13 | 🌐 PHP | 📅 2026-08-27<br>
   SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,022 | 🐛 104 | 📅 2026-07-25<br>
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,033 | 🐛 104 | 📅 2026-07-25<br>
   A collection of awesome penetration testing resources, tools and other shiny things.
 
-* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,948 | 🐛 69 | 📅 2024-06-02<br>
+* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,952 | 🐛 69 | 📅 2024-06-02<br>
   A curated list of awesome Hacking tutorials, tools and resources.
 
-* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,797 | 🐛 313 | 📅 2026-01-11<br>
+* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,800 | 🐛 313 | 📅 2026-01-11<br>
   A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,158 | 🐛 25 | 📅 2024-06-07<br>
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,160 | 🐛 25 | 📅 2024-06-07<br>
   A curated list of awesome malware analysis tools and resources.
 
-* [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,800 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22<br>
+* [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,801 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22<br>
   A curated list of CTF frameworks, libraries, resources and softwares.
 
 * [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,580 | 🐛 116 | 📅 2026-05-31<br>
@@ -849,7 +849,7 @@ This is a course in defensive security.
 * [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,246 | 🐛 7 | 📅 2026-08-13<br>
   This list is for anyone wishing to learn about web application security but do not have a starting point.
 
-* [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,043 | 🐛 40 | 🌐 PHP | 📅 2025-02-22<br>
+* [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,044 | 🐛 40 | 🌐 PHP | 📅 2025-02-22<br>
   A curated list of resources for learning about application security.
 
 * [Awesome Forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,164 | 🐛 8 | 📅 2026-08-23<br>
@@ -861,7 +861,7 @@ This is a course in defensive security.
 * [Awesome Sec Talks](https://github.com/PaulSec/awesome-sec-talks) ⭐ 4,231 | 🐛 0 | 📅 2026-02-17<br>
   A curated list of awesome Security talks.
 
-* [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,415 | 🐛 14 | 📅 2025-09-03<br>
+* [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,414 | 🐛 14 | 📅 2025-09-03<br>
   A collection of tools developed by other researchers in the Computer Science area to process network traces.
 
 * [Awesome Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security) ⭐ 2,005 | 🐛 11 | 🌐 Python | 📅 2025-10-10<br>
