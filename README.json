@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-23T13:51:55Z",
                 "owner": "Strategic-Automation",
                 "repo": "violin",
-                "stars": 81
-              }
+                "stars": 82
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": null,
@@ -39,8 +40,25 @@
                 "last_commit": "2026-08-23T13:51:55Z",
                 "owner": "Strategic-Automation",
                 "repo": "violin",
-                "stars": 81
-              }
+                "stars": 82
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Darkmoon",
+              "description": "Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894433723,
+                "language": "Python",
+                "last_commit": "2026-08-25T10:02:54Z",
+                "owner": "ASCIT31",
+                "repo": "Dark-Moon",
+                "stars": 876
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a \"build security in\" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems.",
@@ -67,8 +85,9 @@
                 "last_commit": "2024-04-05T02:11:57Z",
                 "owner": "osirislab",
                 "repo": "Hack-Night",
-                "stars": 1273
-              }
+                "stars": 1272
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "Developed from the materials of NYU Tandon's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.",
@@ -89,8 +108,9 @@
                 "last_commit": "2022-08-26T22:56:18Z",
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4062
-              }
+                "stars": 4063
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "This course will introduce students to modern malware analysis techniques through readings and hands-on interactive analysis of real-world samples. After taking this course students will be equipped with the skills to analyze advanced contemporary malware using both static and dynamic analysis.",
@@ -111,8 +131,9 @@
                 "last_commit": "2021-12-09T17:20:50Z",
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6036
-              }
+                "stars": 6037
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "This course will start off by covering basic x86 reverse engineering, vulnerability analysis, and classical forms of Linux-based userland binary exploitation. It will then transition into protections found on modern systems (Canaries, DEP, ASLR, RELRO, Fortify Source, etc) and the techniques used to defeat them. Time permitting, the course will also cover other subjects in exploitation including kernel-land and Windows based exploitation.",
@@ -139,8 +160,9 @@
                 "last_commit": "2026-08-19T13:12:21Z",
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13556
-              }
+                "stars": 13557
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.",
@@ -162,7 +184,8 @@
                 "owner": "snoopysecurity",
                 "repo": "dvws",
                 "stars": 461
-              }
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities. The aim of this project is to help security professionals learn about Web Application Security through the use of a practical lab environment.",
@@ -184,7 +207,8 @@
                 "owner": "Hackademic",
                 "repo": "hackademic",
                 "stars": 325
-              }
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "The Hackademic Challenges implement realistic scenarios with known vulnerabilities in a safe and controllable environment. Users can attempt to discover and exploit these vulnerabilities in order to learn important concepts of information security through an attacker's perspective.",
@@ -206,7 +230,8 @@
                 "owner": "s4n7h0",
                 "repo": "xvwa",
                 "stars": 1763
-              }
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security. It’s not advisable to host this application online as it is designed to be “Xtremely Vulnerable”. We recommend hosting this application in local/controlled environment and sharpening your application security ninja skills with any tools of your own choice. It’s totally legal to break or hack into this. The idea is to evangelize web application security to the community in possibly the easiest and fundamental way. Learn and acquire these skills for good purpose. How you use these skills and knowledge base is not our responsibility.",
@@ -227,8 +252,9 @@
                 "last_commit": "2026-08-24T09:53:59Z",
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9296
-              }
+                "stars": 9301
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.",
@@ -249,8 +275,9 @@
                 "last_commit": "2023-12-11T17:06:16Z",
                 "owner": "Audi-1",
                 "repo": "sqli-labs",
-                "stars": 5833
-              }
+                "stars": 5834
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "SQLi-LABS is a comprehensive test bed to Learn and understand nitti gritty of SQL injections and thereby helps professionals understand how to protect.",
@@ -278,7 +305,8 @@
                 "owner": "ctfs",
                 "repo": "write-ups-2015",
                 "stars": 1998
-              }
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             },
             {
               "node_type": "item",
@@ -293,7 +321,8 @@
                 "owner": "ctfs",
                 "repo": "write-ups-2014",
                 "stars": 1856
-              }
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             },
             {
               "node_type": "item",
@@ -308,7 +337,8 @@
                 "owner": "ctfs",
                 "repo": "write-ups-2016",
                 "stars": 1627
-              }
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             },
             {
               "node_type": "item",
@@ -323,7 +353,8 @@
                 "owner": "ctfs",
                 "repo": "write-ups-2013",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": null,
@@ -351,7 +382,8 @@
                 "owner": "crypto101",
                 "repo": "book",
                 "stars": 3766
-              }
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "Comes with everything you need to understand complete systems such as SSL/TLS: block ciphers, stream ciphers, hash functions, message authentication codes, public key encryption, key agreement protocols, and signature algorithms. Learn how to exploit common cryptographic flaws, armed with nothing but a little time and your favorite programming language. Forge administrator cookies, recover passwords, and even backdoor your own random number generator.",
@@ -373,7 +405,8 @@
                 "owner": "trailofbits",
                 "repo": "ctf",
                 "stars": 1438
-              }
+              },
+              "first_seen": "2026-08-28T19:02:26.976Z"
             }
           ],
           "description": "The focus areas that CTF competitions tend to measure are vulnerability discovery, exploit creation, toolkit creation, and operational tradecraft.. Whether you want to succeed at CTF, or as a computer security professional, you'll need to become an expert in at least one of these disciplines. Ideally in all of them.",
@@ -398,8 +431,9 @@
             "last_commit": "2026-08-27T15:51:06Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73125
-          }
+            "stars": 73133
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -413,8 +447,9 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27033
-          }
+            "stars": 27044
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -428,8 +463,9 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16952
-          }
+            "stars": 16960
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -443,8 +479,9 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14800
-          }
+            "stars": 14802
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -458,8 +495,9 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14160
-          }
+            "stars": 14161
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -474,7 +512,8 @@
             "owner": "apsdehal",
             "repo": "awesome-ctf",
             "stars": 11801
-          }
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -489,7 +528,8 @@
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
             "stars": 10580
-          }
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -503,8 +543,9 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10534
-          }
+            "stars": 10535
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -518,8 +559,9 @@
             "last_commit": "2026-08-21T18:33:19Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9646
-          }
+            "stars": 9648
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -533,8 +575,9 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9353
-          }
+            "stars": 9355
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -548,8 +591,9 @@
             "last_commit": "2026-08-13T15:21:19Z",
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7246
-          }
+            "stars": 7245
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -563,8 +607,9 @@
             "last_commit": "2025-02-22T16:39:11Z",
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7044
-          }
+            "stars": 7046
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -578,8 +623,9 @@
             "last_commit": "2026-08-23T09:53:20Z",
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5164
-          }
+            "stars": 5165
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -593,8 +639,9 @@
             "last_commit": "2026-06-15T19:57:31Z",
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4263
-          }
+            "stars": 4265
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -609,7 +656,8 @@
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
             "stars": 4231
-          }
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -623,8 +671,9 @@
             "last_commit": "2025-09-03T07:24:40Z",
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3414
-          }
+            "stars": 3416
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         },
         {
           "node_type": "item",
@@ -639,7 +688,8 @@
             "owner": "hslatman",
             "repo": "awesome-industrial-control-system-security",
             "stars": 2005
-          }
+          },
+          "first_seen": "2026-08-28T19:02:26.976Z"
         }
       ],
       "title": "Related Awesome Lists"
@@ -655,29 +705,30 @@
             "archived": false,
             "id": 35577029,
             "language": null,
-            "last_commit": "2026-08-15T16:05:29Z",
+            "last_commit": "2026-08-28T15:30:27Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5727
+            "stars": 5728
           },
-          "title": "Contributing"
+          "title": "Contributing",
+          "first_seen": "2026-08-28T19:02:26.976Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:54:31.989Z",
+    "last_updated": "2026-08-28T19:02:26.976Z",
     "original_repository_info": {
       "archived": false,
       "id": 35577029,
       "language": null,
-      "last_commit": "2026-08-15T16:05:29Z",
+      "last_commit": "2026-08-28T15:30:27Z",
       "owner": "onlurking",
       "repo": "awesome-infosec",
-      "stars": 5727
+      "stars": 5728
     },
-    "original_repository_sha": "925319833de5dc7a16040656289c18bc6772782e",
+    "original_repository_sha": "e91306ce1462bdb2eb91669c61c698d09ee32dbb",
     "enhanced_repository": "enhansome/enhansome-infosec",
     "enhanced_repository_description": null,
     "title": "Awesome Infosec with stars"
