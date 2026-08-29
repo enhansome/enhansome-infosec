@@ -12,12 +12,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supervised, Hermes-native penetration testing profile with 35 routed playbooks, guarded target execution, persistent engagement state, evidence-backed findings, and release-gated reporting.",
+                "homepage": "https://hermes-agent.nousresearch.com/",
                 "id": 1291466723,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-23T13:51:55Z",
+                "open_issues": 10,
                 "owner": "Strategic-Automation",
                 "repo": "violin",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agents",
+                  "cybersecurity",
+                  "hermes-agent",
+                  "hermes-profile",
+                  "kali-linux",
+                  "llm-security",
+                  "owasp",
+                  "parrot-os",
+                  "penetration-testing",
+                  "pentest",
+                  "red-team",
+                  "security-automation"
+                ]
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -35,12 +54,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supervised, Hermes-native penetration testing profile with 35 routed playbooks, guarded target execution, persistent engagement state, evidence-backed findings, and release-gated reporting.",
+                "homepage": "https://hermes-agent.nousresearch.com/",
                 "id": 1291466723,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-23T13:51:55Z",
+                "open_issues": 10,
                 "owner": "Strategic-Automation",
                 "repo": "violin",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agents",
+                  "cybersecurity",
+                  "hermes-agent",
+                  "hermes-profile",
+                  "kali-linux",
+                  "llm-security",
+                  "owasp",
+                  "parrot-os",
+                  "penetration-testing",
+                  "pentest",
+                  "red-team",
+                  "security-automation"
+                ]
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             },
@@ -51,12 +89,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+                "homepage": "https://dark-moon.org/",
                 "id": 894433723,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T10:02:54Z",
+                "open_issues": 3,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 876
+                "stars": 877,
+                "topics": [
+                  "active-directory",
+                  "ai-agents",
+                  "ai-red-team",
+                  "ai-security-tool",
+                  "autonomous-agents",
+                  "cloud-security",
+                  "firmware-security",
+                  "iot-security",
+                  "kubernetes",
+                  "llm",
+                  "local-llm",
+                  "mcp",
+                  "multi-agent-systems",
+                  "offensive-security",
+                  "penetration-testing",
+                  "pentesting",
+                  "red-team",
+                  "security-automation",
+                  "security-tools",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -80,12 +144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hack Night is an open weekly training session run by the OSIRIS lab.",
+                "homepage": null,
                 "id": 10182200,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-05T02:11:57Z",
+                "open_issues": 10,
                 "owner": "osirislab",
                 "repo": "Hack-Night",
-                "stars": 1272
+                "stars": 1272,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -103,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Course materials for Malware Analysis by RPISEC",
+                "homepage": null,
                 "id": 49282041,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-08-26T22:56:18Z",
+                "open_issues": 1,
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4063
+                "stars": 4063,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -126,12 +200,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Course materials for Modern Binary Exploitation by RPISEC",
+                "homepage": null,
                 "id": 37784277,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-12-09T17:20:50Z",
+                "open_issues": 11,
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6037
+                "stars": 6038,
+                "topics": [
+                  "ctf",
+                  "exploitation",
+                  "wargame"
+                ]
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -155,12 +238,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Damn Vulnerable Web Application (DVWA)",
+                "homepage": null,
                 "id": 9791525,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T13:12:21Z",
+                "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13557
+                "stars": 13559,
+                "topics": [
+                  "dvwa",
+                  "hacking",
+                  "infosec",
+                  "php",
+                  "security",
+                  "sql-injection",
+                  "training"
+                ]
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -178,12 +274,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.  NOTE: This project is out of date, please use https://github.com/snoopysecurity/dvws-node",
+                "homepage": null,
                 "id": 49496640,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-06T00:15:00Z",
+                "open_issues": 0,
                 "owner": "snoopysecurity",
                 "repo": "dvws",
-                "stars": 461
+                "stars": 461,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -201,12 +302,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "the main hackademic code repository",
+                "homepage": null,
                 "id": 5924647,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-30T14:00:21Z",
+                "open_issues": 42,
                 "owner": "Hackademic",
                 "repo": "hackademic",
-                "stars": 325
+                "stars": 325,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -224,12 +330,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.  ",
+                "homepage": null,
                 "id": 44470991,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2020-09-12T17:26:24Z",
+                "open_issues": 6,
                 "owner": "s4n7h0",
                 "repo": "xvwa",
-                "stars": 1763
+                "stars": 1763,
+                "topics": [
+                  "application-security",
+                  "knowledge",
+                  "learning-appsec",
+                  "mysql",
+                  "php",
+                  "vulnerability",
+                  "xvwa"
+                ]
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -247,12 +366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebGoat is a deliberately insecure application",
+                "homepage": "https://owasp.org/www-project-webgoat/",
                 "id": 31771754,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T09:53:59Z",
+                "open_issues": 39,
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9301
+                "stars": 9302,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -270,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQLI labs to test error based, Blind boolean based, Time based.",
+                "homepage": null,
                 "id": 4380514,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-12-11T17:06:16Z",
+                "open_issues": 33,
                 "owner": "Audi-1",
                 "repo": "sqli-labs",
-                "stars": 5834
+                "stars": 5834,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -299,12 +428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wiki-like CTF write-ups repository, maintained by the community. 2015",
+                "homepage": null,
                 "id": 29059102,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2022-08-27T16:26:01Z",
+                "open_issues": 59,
                 "owner": "ctfs",
                 "repo": "write-ups-2015",
-                "stars": 1998
+                "stars": 1998,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             },
@@ -315,12 +449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wiki-like CTF write-ups repository, maintained by the community. 2014",
+                "homepage": null,
                 "id": 16049730,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-04-27T15:59:15Z",
+                "open_issues": 17,
                 "owner": "ctfs",
                 "repo": "write-ups-2014",
-                "stars": 1856
+                "stars": 1856,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             },
@@ -331,12 +470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wiki-like CTF write-ups repository, maintained by the community. 2016",
+                "homepage": null,
                 "id": 48103176,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-10-02T15:40:39Z",
+                "open_issues": 230,
                 "owner": "ctfs",
                 "repo": "write-ups-2016",
-                "stars": 1627
+                "stars": 1627,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             },
@@ -347,12 +491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wiki-like CTF write-ups repository, maintained by the community. 2013",
+                "homepage": null,
                 "id": 30283670,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-04-02T11:30:40Z",
+                "open_issues": 3,
                 "owner": "ctfs",
                 "repo": "write-ups-2013",
-                "stars": 232
+                "stars": 232,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -376,12 +525,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crypto 101, the introductory book on cryptography.",
+                "homepage": "https://www.crypto101.io/",
                 "id": 15472738,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-04T19:44:41Z",
+                "open_issues": 133,
                 "owner": "crypto101",
                 "repo": "book",
-                "stars": 3766
+                "stars": 3766,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -399,12 +553,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CTF Field Guide",
+                "homepage": "https://trailofbits.github.io/ctf/",
                 "id": 19956920,
                 "language": "C",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2024-11-15T16:52:18Z",
+                "open_issues": 14,
                 "owner": "trailofbits",
                 "repo": "ctf",
-                "stars": 1438
+                "stars": 1438,
+                "topics": [
+                  "ctf",
+                  "security-ctf",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
             }
@@ -426,12 +589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+            "homepage": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project",
             "id": 3482588,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:51:06Z",
+            "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73133
+            "stars": 73142,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -442,12 +610,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome penetration testing resources, tools and other shiny things",
+            "homepage": null,
             "id": 22585805,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
+            "open_issues": 105,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27044
+            "stars": 27049,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -458,12 +634,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Hacking tutorials, tools and resources",
+            "homepage": null,
             "id": 28084589,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-02T22:40:13Z",
+            "open_issues": 69,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16960
+            "stars": 16964,
+            "topics": [
+              "awesome",
+              "hacking"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -474,12 +658,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+            "homepage": null,
             "id": 23208012,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
+            "open_issues": 316,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14802
+            "stars": 14805,
+            "topics": [
+              "awesome-list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -490,12 +682,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defund the Police.",
+            "homepage": "https://gazafunds.com/",
             "id": 35313712,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-06-07T05:09:47Z",
+            "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14161
+            "stars": 14162,
+            "topics": [
+              "analysis-framework",
+              "automated-analysis",
+              "awesome",
+              "awesome-list",
+              "chinese",
+              "chinese-translation",
+              "domain-analysis",
+              "drop-ice",
+              "dynamic-analysis",
+              "list",
+              "malware-analysis",
+              "malware-collection",
+              "malware-research",
+              "malware-samples",
+              "network-traffic",
+              "static-analysis",
+              "threat-intelligence",
+              "threat-sharing",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -506,12 +723,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of CTF frameworks, libraries, resources and softwares",
+            "homepage": "https://apsdehal.in/awesome-ctf/",
             "id": 31452467,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2024-07-22T19:59:35Z",
+            "open_issues": 66,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11801
+            "stars": 11803,
+            "topics": [
+              "awesome",
+              "ctf",
+              "penetration",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -522,12 +749,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Awesome Threat Intelligence resources",
+            "homepage": null,
             "id": 48368290,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
+            "open_issues": 117,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10580
+            "stars": 10581,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -538,12 +775,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an awesome list of honeypot resources",
+            "homepage": null,
             "id": 37659549,
             "language": "Python",
+            "license": "Artistic-2.0",
             "last_commit": "2026-06-01T14:15:45Z",
+            "open_issues": 23,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10535
+            "stars": 10537,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "honeyd",
+              "honeypot",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -554,12 +802,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of android security related resources",
+            "homepage": null,
             "id": 22117770,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T18:33:19Z",
+            "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9648
+            "stars": 9649,
+            "topics": [
+              "android",
+              "awesome",
+              "awesome-list",
+              "list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -570,12 +829,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of tools for incident response",
+            "homepage": null,
             "id": 45943554,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
+            "open_issues": 75,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9355
+            "stars": 9357,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cybersecurity",
+              "dfir",
+              "incident-response",
+              "incident-response-tooling",
+              "list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -586,12 +859,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of web application security",
+            "homepage": null,
             "id": 34994225,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-13T15:21:19Z",
+            "open_issues": 7,
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7245
+            "stars": 7245,
+            "topics": [
+              "appsec",
+              "hacking",
+              "hacking-tools",
+              "metasploit",
+              "owasp",
+              "penetration-testing",
+              "pentesting",
+              "scanner",
+              "security",
+              "vulnerabilities",
+              "vulnerability",
+              "web-hacking",
+              "web-security"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -602,12 +894,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for learning about application security",
+            "homepage": "https://paragonie.com/projects",
             "id": 34877308,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-02-22T16:39:11Z",
+            "open_issues": 40,
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7046
+            "stars": 7046,
+            "topics": [
+              "application-security",
+              "curated",
+              "owasp",
+              "reading-list",
+              "security",
+              "security-experts"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -618,12 +922,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⭐️ A curated list of awesome forensic analysis tools and resources",
+            "homepage": "http://cugu.github.io/awesome-forensics/",
             "id": 55009841,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-23T09:53:20Z",
+            "open_issues": 9,
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5165
+            "stars": 5165,
+            "topics": [
+              "computer-forensics",
+              "dfir",
+              "digital-forensics",
+              "forensic-analysis",
+              "free",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -634,12 +950,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome YARA rules, tools, and people.",
+            "homepage": null,
             "id": 101214787,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-06-15T19:57:31Z",
+            "open_issues": 1,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4265
+            "stars": 4264,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-yara",
+              "ioc",
+              "malware-analysis",
+              "malware-detection",
+              "malware-research",
+              "malware-rules",
+              "threat-hunting",
+              "yara",
+              "yara-manager",
+              "yara-rules",
+              "yara-scanner",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -650,12 +986,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collected list of awesome security talks",
+            "homepage": null,
             "id": 49948104,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-17T13:14:58Z",
+            "open_issues": 0,
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
-            "stars": 4231
+            "stars": 4231,
+            "topics": [
+              "conferences",
+              "hacking",
+              "infosec",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -666,12 +1012,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
+            "homepage": "http://caesar0301.github.io/awesome-pcaptools",
             "id": 4415789,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-09-03T07:24:40Z",
+            "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3416
+            "stars": 3416,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         },
@@ -682,12 +1033,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources related to Industrial Control System (ICS) security.",
+            "homepage": null,
             "id": 47621478,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-10T09:48:06Z",
+            "open_issues": 11,
             "owner": "hslatman",
             "repo": "awesome-industrial-control-system-security",
-            "stars": 2005
+            "stars": 2005,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "ics",
+              "iiot",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
         }
@@ -703,12 +1066,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": " A curated list of awesome infosec courses and training resources.",
+            "homepage": null,
             "id": 35577029,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T15:30:27Z",
+            "open_issues": 15,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5728
+            "stars": 5728,
+            "topics": [
+              "awesome",
+              "courses",
+              "infosec",
+              "lab",
+              "penetration-testing",
+              "pentest",
+              "security",
+              "security-professionals"
+            ]
           },
           "title": "Contributing",
           "first_seen": "2026-08-28T19:02:26.976Z"
@@ -718,15 +1095,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:02:26.976Z",
+    "last_updated": "2026-08-29T04:15:45.806Z",
     "original_repository_info": {
       "archived": false,
+      "description": " A curated list of awesome infosec courses and training resources.",
+      "homepage": null,
       "id": 35577029,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-28T15:30:27Z",
+      "open_issues": 15,
       "owner": "onlurking",
       "repo": "awesome-infosec",
-      "stars": 5728
+      "stars": 5728,
+      "topics": [
+        "awesome",
+        "courses",
+        "infosec",
+        "lab",
+        "penetration-testing",
+        "pentest",
+        "security",
+        "security-professionals"
+      ]
     },
     "original_repository_sha": "e91306ce1462bdb2eb91669c61c698d09ee32dbb",
     "enhanced_repository": "enhansome/enhansome-infosec",
