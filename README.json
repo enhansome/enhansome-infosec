@@ -94,8 +94,8 @@
                 "id": 894433723,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-25T10:02:54Z",
-                "open_issues": 3,
+                "last_commit": "2026-08-29T10:24:24Z",
+                "open_issues": 2,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
                 "stars": 877,
@@ -247,7 +247,7 @@
                 "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13559,
+                "stars": 13565,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -479,7 +479,7 @@
                 "open_issues": 230,
                 "owner": "ctfs",
                 "repo": "write-ups-2016",
-                "stars": 1627,
+                "stars": 1628,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
@@ -594,11 +594,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-27T15:51:06Z",
+            "last_commit": "2026-08-29T11:12:46Z",
             "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73142,
+            "stars": 73144,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
@@ -619,7 +619,7 @@
             "open_issues": 105,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27049,
+            "stars": 27050,
             "topics": [
               "awesome",
               "awesome-list"
@@ -643,7 +643,7 @@
             "open_issues": 69,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16964,
+            "stars": 16965,
             "topics": [
               "awesome",
               "hacking"
@@ -667,7 +667,7 @@
             "open_issues": 316,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14805,
+            "stars": 14806,
             "topics": [
               "awesome-list",
               "security"
@@ -691,7 +691,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14162,
+            "stars": 14163,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -732,7 +732,7 @@
             "open_issues": 66,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11803,
+            "stars": 11805,
             "topics": [
               "awesome",
               "ctf",
@@ -838,7 +838,7 @@
             "open_issues": 75,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9357,
+            "stars": 9358,
             "topics": [
               "awesome",
               "awesome-list",
@@ -868,7 +868,7 @@
             "open_issues": 7,
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7245,
+            "stars": 7247,
             "topics": [
               "appsec",
               "hacking",
@@ -931,7 +931,7 @@
             "open_issues": 9,
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5165,
+            "stars": 5164,
             "topics": [
               "computer-forensics",
               "dfir",
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:45.806Z",
+    "last_updated": "2026-08-29T12:50:09.903Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome infosec courses and training resources.",

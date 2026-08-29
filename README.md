@@ -1,6 +1,6 @@
 # Awesome Infosec with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,004 | 🐛 105 | 📅 2026-08-21
 
 A curated list of awesome information security resources, inspired by the awesome-\* trend on GitHub.
 
@@ -58,7 +58,7 @@ This course focuses on how to design and build secure systems with a human-centr
 
 This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems.
 
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 877 | 🐛 3 | 🌐 Python | 📅 2026-08-25 - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 877 | 🐛 2 | 🌐 Python | 📅 2026-08-29 - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 * [University of Maryland - Software Security](https://www.coursera.org/learn/softwaresec)
 
 #### University of Maryland - Cryptography
@@ -621,7 +621,7 @@ Learn the fundamentals of Binary Auditing. Know how HLL mapping works, get more 
 
 Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
 
-* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA) ⭐ 13,559 | 🐛 7 | 🌐 PHP | 📅 2026-08-19
+* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA) ⭐ 13,565 | 🐛 7 | 🌐 PHP | 📅 2026-08-19
 
 ## Damn Vulnerable Web Services
 
@@ -705,7 +705,7 @@ When something is added to VulnHub's database it will be indexed as best as poss
 * [CTF write-ups 2014](https://github.com/ctfs/write-ups-2014) ⭐ 1,856 | 🐛 17 | 🌐 Python | 📅 2016-04-27<br>
   Wiki-like CTF write-ups repository, maintained by the community. (2014)
 
-* [CTF write-ups 2016](https://github.com/ctfs/write-ups-2016) ⭐ 1,627 | 🐛 230 | 🌐 C | 📅 2018-10-02<br>
+* [CTF write-ups 2016](https://github.com/ctfs/write-ups-2016) ⭐ 1,628 | 🐛 230 | 🌐 C | 📅 2018-10-02<br>
   Wiki-like CTF write-ups repository, maintained by the community. (2015)
 
 * [CTF write-ups 2013](https://github.com/ctfs/write-ups-2013) ⭐ 232 | 🐛 3 | 🌐 Python | 📅 2016-04-02<br>
@@ -817,22 +817,22 @@ This is a course in defensive security.
 
 # Related Awesome Lists
 
-* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 73,142 | 🐛 13 | 🌐 PHP | 📅 2026-08-27<br>
+* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 73,144 | 🐛 13 | 🌐 PHP | 📅 2026-08-29<br>
   SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,049 | 🐛 105 | 📅 2026-07-25<br>
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,050 | 🐛 105 | 📅 2026-07-25<br>
   A collection of awesome penetration testing resources, tools and other shiny things.
 
-* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,964 | 🐛 69 | 📅 2024-06-02<br>
+* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,965 | 🐛 69 | 📅 2024-06-02<br>
   A curated list of awesome Hacking tutorials, tools and resources.
 
-* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,805 | 🐛 316 | 📅 2026-01-11<br>
+* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,806 | 🐛 316 | 📅 2026-01-11<br>
   A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,162 | 🐛 25 | 📅 2024-06-07<br>
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,163 | 🐛 25 | 📅 2024-06-07<br>
   A curated list of awesome malware analysis tools and resources.
 
-* [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,803 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22<br>
+* [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,805 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22<br>
   A curated list of CTF frameworks, libraries, resources and softwares.
 
 * [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,581 | 🐛 117 | 📅 2026-05-31<br>
@@ -844,16 +844,16 @@ This is a course in defensive security.
 * [Android Security Awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,649 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21<br>
   A collection of android security related resources.
 
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,357 | 🐛 75 | 📅 2026-07-15<br>
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,358 | 🐛 75 | 📅 2026-07-15<br>
   A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
-* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,245 | 🐛 7 | 📅 2026-08-13<br>
+* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,247 | 🐛 7 | 📅 2026-08-13<br>
   This list is for anyone wishing to learn about web application security but do not have a starting point.
 
 * [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,046 | 🐛 40 | 🌐 PHP | 📅 2025-02-22<br>
   A curated list of resources for learning about application security.
 
-* [Awesome Forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,165 | 🐛 9 | 📅 2026-08-23<br>
+* [Awesome Forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,164 | 🐛 9 | 📅 2026-08-23<br>
   A curated list of awesome forensic analysis tools and resources.
 
 * [Awesome YARA](https://github.com/InQuest/awesome-yara) ⭐ 4,264 | 🐛 1 | 📅 2026-06-15<br>
