@@ -17,11 +17,11 @@
                 "id": 1291466723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:02:14Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-20T00:58:10Z",
+                "open_issues": 28,
                 "owner": "Strategic-Automation",
                 "repo": "violin",
-                "stars": 114,
+                "stars": 120,
                 "topics": [
                   "agentic-ai",
                   "ai-agents",
@@ -59,11 +59,11 @@
                 "id": 1291466723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:02:14Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-20T00:58:10Z",
+                "open_issues": 28,
                 "owner": "Strategic-Automation",
                 "repo": "violin",
-                "stars": 114,
+                "stars": 120,
                 "topics": [
                   "agentic-ai",
                   "ai-agents",
@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 950,
+                "stars": 953,
                 "topics": [
                   "active-directory",
                   "ai-agents",
@@ -209,7 +209,7 @@
                 "open_issues": 11,
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6050,
+                "stars": 6051,
                 "topics": [
                   "ctf",
                   "exploitation",
@@ -247,7 +247,7 @@
                 "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13688,
+                "stars": 13692,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -375,7 +375,7 @@
                 "open_issues": 38,
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9344,
+                "stars": 9343,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
@@ -479,7 +479,7 @@
                 "open_issues": 230,
                 "owner": "ctfs",
                 "repo": "write-ups-2016",
-                "stars": 1628,
+                "stars": 1629,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:02:26.976Z"
@@ -594,11 +594,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-19T11:13:23Z",
+            "last_commit": "2026-09-20T11:13:35Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73607,
+            "stars": 73627,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
@@ -619,7 +619,7 @@
             "open_issues": 120,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27228,
+            "stars": 27242,
             "topics": [
               "awesome",
               "awesome-list"
@@ -643,7 +643,7 @@
             "open_issues": 73,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17091,
+            "stars": 17102,
             "topics": [
               "awesome",
               "hacking"
@@ -664,10 +664,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 336,
+            "open_issues": 337,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14867,
+            "stars": 14872,
             "topics": [
               "awesome-list",
               "security"
@@ -691,7 +691,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14202,
+            "stars": 14203,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -732,7 +732,7 @@
             "open_issues": 66,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11861,
+            "stars": 11862,
             "topics": [
               "awesome",
               "ctf",
@@ -758,7 +758,7 @@
             "open_issues": 139,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10656,
+            "stars": 10659,
             "topics": [
               "awesome",
               "awesome-list",
@@ -784,7 +784,7 @@
             "open_issues": 29,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10564,
+            "stars": 10563,
             "topics": [
               "awesome",
               "awesome-list",
@@ -811,7 +811,7 @@
             "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9701,
+            "stars": 9702,
             "topics": [
               "android",
               "awesome",
@@ -838,7 +838,7 @@
             "open_issues": 83,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9397,
+            "stars": 9399,
             "topics": [
               "awesome",
               "awesome-list",
@@ -868,7 +868,7 @@
             "open_issues": 8,
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7271,
+            "stars": 7273,
             "topics": [
               "appsec",
               "hacking",
@@ -900,10 +900,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2025-02-22T16:39:11Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7060,
+            "stars": 7062,
             "topics": [
               "application-security",
               "curated",
@@ -931,7 +931,7 @@
             "open_issues": 13,
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5186,
+            "stars": 5189,
             "topics": [
               "computer-forensics",
               "dfir",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
-            "stars": 4236,
+            "stars": 4235,
             "topics": [
               "conferences",
               "hacking",
@@ -1021,7 +1021,7 @@
             "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3425,
+            "stars": 3426,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:26.976Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 15,
             "owner": "hslatman",
             "repo": "awesome-industrial-control-system-security",
-            "stars": 2018,
+            "stars": 2019,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1075,7 +1075,7 @@
             "open_issues": 18,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5746,
+            "stars": 5747,
             "topics": [
               "awesome",
               "courses",
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:35:02.913Z",
+    "last_updated": "2026-09-20T11:50:19.238Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome infosec courses and training resources.",
@@ -1107,7 +1107,7 @@
       "open_issues": 18,
       "owner": "onlurking",
       "repo": "awesome-infosec",
-      "stars": 5746,
+      "stars": 5747,
       "topics": [
         "awesome",
         "courses",
