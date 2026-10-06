@@ -1,6 +1,6 @@
 # Awesome Infosec with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,362 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,446 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome information security resources, inspired by the awesome-\* trend on GitHub.
 
@@ -58,7 +58,7 @@ This course focuses on how to design and build secure systems with a human-centr
 
 This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems.
 
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,002 | 🐛 8 | 🌐 Python | 📅 2026-10-01 - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,004 | 🐛 8 | 🌐 Python | 📅 2026-10-01 - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 * [University of Maryland - Software Security](https://www.coursera.org/learn/softwaresec)
 
 #### University of Maryland - Cryptography
@@ -97,7 +97,7 @@ This course is good for beginner It contains introduction to cybersecurity, The 
 
 Developed from the materials of NYU Tandon's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
-* [NYU Tandon's OSIRIS Lab's Hack Night](https://github.com/isislab/Hack-Night) ⭐ 1,278 | 🐛 10 | 🌐 Python | 📅 2024-04-05
+* [NYU Tandon's OSIRIS Lab's Hack Night](https://github.com/isislab/Hack-Night) ⭐ 1,278 | 🐛 10 | 🌐 Python | 📅 2026-10-06
 
 #### Florida State University's - Offensive Computer Security
 
@@ -669,7 +669,7 @@ XVWA is a badly coded web application written in PHP/MySQL that helps security e
 
 WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
 
-* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,393 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-06
+* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,393 | 🐛 35 | 🌐 JavaScript | 📅 2026-10-06
 
 ## Audi-1's SQLi-LABS
 
@@ -817,25 +817,25 @@ This is a course in defensive security.
 
 # Related Awesome Lists
 
-* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 73,969 | 🐛 10 | 🌐 PHP | 📅 2026-10-06<br>
+* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 73,971 | 🐛 10 | 🌐 PHP | 📅 2026-10-06<br>
   SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 
 * [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,354 | 🐛 136 | 📅 2026-07-25<br>
   A collection of awesome penetration testing resources, tools and other shiny things.
 
-* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,209 | 🐛 74 | 📅 2024-06-02<br>
+* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,208 | 🐛 74 | 📅 2024-06-02<br>
   A curated list of awesome Hacking tutorials, tools and resources.
 
-* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,945 | 🐛 351 | 📅 2026-01-11<br>
+* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,946 | 🐛 351 | 📅 2026-01-11<br>
   A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,251 | 🐛 25 | 📅 2024-06-07<br>
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,252 | 🐛 25 | 📅 2024-06-07<br>
   A curated list of awesome malware analysis tools and resources.
 
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,888 | 🐛 70 | 🌐 JavaScript | 📅 2024-07-22<br>
   A curated list of CTF frameworks, libraries, resources and softwares.
 
-* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,702 | 🐛 143 | 📅 2026-05-31<br>
+* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,703 | 🐛 143 | 📅 2026-05-31<br>
   A curated list of awesome Threat Intelligence resources.
 
 * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,583 | 🐛 30 | 🌐 Python | 📅 2026-06-01<br>
@@ -844,10 +844,10 @@ This is a course in defensive security.
 * [Android Security Awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,731 | 🐛 0 | 🌐 Makefile | 📅 2026-10-06<br>
   A collection of android security related resources.
 
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,433 | 🐛 87 | 📅 2026-07-15<br>
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,434 | 🐛 87 | 📅 2026-07-15<br>
   A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
-* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,286 | 🐛 12 | 📅 2026-09-18<br>
+* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,285 | 🐛 12 | 📅 2026-09-18<br>
   This list is for anyone wishing to learn about web application security but do not have a starting point.
 
 * [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,085 | 🐛 43 | 🌐 PHP | 📅 2025-02-22<br>
