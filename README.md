@@ -1,6 +1,6 @@
 # Awesome Infosec with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,067 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,728 | 🐛 103 | 📅 2026-09-02
 
 A curated list of awesome information security resources, inspired by the awesome-\* trend on GitHub.
 
@@ -58,7 +58,7 @@ This course focuses on how to design and build secure systems with a human-centr
 
 This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems.
 
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,199 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,202 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 * [University of Maryland - Software Security](https://www.coursera.org/learn/softwaresec)
 
 #### University of Maryland - Cryptography
@@ -117,13 +117,13 @@ The first half of this course focuses on know protocols while the second half of
 
 This course will introduce students to modern malware analysis techniques through readings and hands-on interactive analysis of real-world samples. After taking this course students will be equipped with the skills to analyze advanced contemporary malware using both static and dynamic analysis.
 
-* [CSCI 4976 - Fall '15 Malware Analysis](https://github.com/RPISEC/Malware) ⭐ 4,569 | 🐛 1 | 📅 2022-08-26
+* [CSCI 4976 - Fall '15 Malware Analysis](https://github.com/RPISEC/Malware) ⭐ 4,572 | 🐛 1 | 📅 2022-08-26
 
 #### Rensselaer Polytechnic Institute - Modern Binary Exploitation
 
 This course will start off by covering basic x86 reverse engineering, vulnerability analysis, and classical forms of Linux-based userland binary exploitation. It will then transition into protections found on modern systems (Canaries, DEP, ASLR, RELRO, Fortify Source, etc) and the techniques used to defeat them. Time permitting, the course will also cover other subjects in exploitation including kernel-land and Windows based exploitation.
 
-* [CSCI 4968 - Spring '15 Modern Binary Exploitation](https://github.com/RPISEC/MBE) ⭐ 6,097 | 🐛 11 | 🌐 C | 📅 2021-12-09
+* [CSCI 4968 - Spring '15 Modern Binary Exploitation](https://github.com/RPISEC/MBE) ⭐ 6,098 | 🐛 11 | 🌐 C | 📅 2021-12-09
 
 #### Rensselaer Polytechnic Institute - Hardware Reverse Engineering
 
@@ -621,7 +621,7 @@ Learn the fundamentals of Binary Auditing. Know how HLL mapping works, get more 
 
 Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
 
-* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA) ⭐ 13,958 | 🐛 8 | 🌐 PHP | 📅 2026-10-18
+* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA) ⭐ 13,965 | 🐛 8 | 🌐 PHP | 📅 2026-10-18
 
 ## Damn Vulnerable Web Services
 
@@ -669,13 +669,13 @@ XVWA is a badly coded web application written in PHP/MySQL that helps security e
 
 WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
 
-* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,455 | 🐛 38 | 🌐 JavaScript | 📅 2026-11-02
+* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,457 | 🐛 38 | 🌐 JavaScript | 📅 2026-11-02
 
 ## Audi-1's SQLi-LABS
 
 SQLi-LABS is a comprehensive test bed to Learn and understand nitti gritty of SQL injections and thereby helps professionals understand how to protect.
 
-* [SQLi-LABS](https://github.com/Audi-1/sqli-labs) ⭐ 5,869 | 🐛 33 | 🌐 PHP | 📅 2023-12-11
+* [SQLi-LABS](https://github.com/Audi-1/sqli-labs) ⭐ 5,868 | 🐛 33 | 🌐 PHP | 📅 2023-12-11
 * [SQLi-LABS Videos](http://www.securitytube.net/user/Audi)
 
 # Capture the Flag
@@ -749,7 +749,7 @@ Security Tube hosts a large range of video tutorials on IT security including pe
 
 Comes with everything you need to understand complete systems such as SSL/TLS: block ciphers, stream ciphers, hash functions, message authentication codes, public key encryption, key agreement protocols, and signature algorithms.  Learn how to exploit common cryptographic flaws, armed with nothing but a little time and your favorite programming language. Forge administrator cookies, recover passwords, and even backdoor your own random number generator.
 
-* [LaTeX Source](https://github.com/crypto101/book) ⭐ 3,772 | 🐛 133 | 🌐 Python | 📅 2023-09-04
+* [LaTeX Source](https://github.com/crypto101/book) ⭐ 3,771 | 🐛 133 | 🌐 Python | 📅 2023-09-04
 * [Crypto101](https://www.crypto101.io/)
 
 #### A Graduate Course in Applied Cryptography - Dan Boneh & Victor Shoup
@@ -817,46 +817,46 @@ This is a course in defensive security.
 
 # Related Awesome Lists
 
-* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 74,516 | 🐛 9 | 🌐 PHP | 📅 2026-11-03<br>
+* [Sec Lists](https://github.com/danielmiessler/SecLists) ⭐ 74,529 | 🐛 9 | 🌐 PHP | 📅 2026-11-04<br>
   SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,622 | 🐛 152 | 📅 2026-07-25<br>
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,630 | 🐛 151 | 📅 2026-07-25<br>
   A collection of awesome penetration testing resources, tools and other shiny things.
 
-* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,400 | 🐛 75 | 📅 2024-06-02<br>
+* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,420 | 🐛 73 | 📅 2024-06-02<br>
   A curated list of awesome Hacking tutorials, tools and resources.
 
-* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 15,064 | 🐛 383 | 📅 2026-01-11<br>
+* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 15,066 | 🐛 384 | 📅 2026-01-11<br>
   A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,368 | 🐛 25 | 📅 2024-06-07<br>
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,371 | 🐛 25 | 📅 2024-06-07<br>
   A curated list of awesome malware analysis tools and resources.
 
-* [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,962 | 🐛 73 | 🌐 JavaScript | 📅 2024-07-22<br>
+* [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,967 | 🐛 72 | 🌐 JavaScript | 📅 2024-07-22<br>
   A curated list of CTF frameworks, libraries, resources and softwares.
 
-* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,819 | 🐛 149 | 📅 2026-10-30<br>
+* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,823 | 🐛 150 | 📅 2026-10-30<br>
   A curated list of awesome Threat Intelligence resources.
 
-* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,646 | 🐛 31 | 🌐 Python | 📅 2026-06-01<br>
+* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,647 | 🐛 31 | 🌐 Python | 📅 2026-06-01<br>
   A curated list of awesome honeypots, tools, components and much more.
 
-* [Android Security Awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,811 | 🐛 4 | 🌐 Makefile | 📅 2026-11-02<br>
+* [Android Security Awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,817 | 🐛 5 | 🌐 Makefile | 📅 2026-11-02<br>
   A collection of android security related resources.
 
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,530 | 🐛 104 | 📅 2026-10-13<br>
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,532 | 🐛 105 | 📅 2026-10-13<br>
   A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
-* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,341 | 🐛 20 | 📅 2026-10-29<br>
+* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,345 | 🐛 20 | 📅 2026-10-29<br>
   This list is for anyone wishing to learn about web application security but do not have a starting point.
 
-* [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,128 | 🐛 44 | 🌐 PHP | 📅 2025-02-22<br>
+* [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,131 | 🐛 43 | 🌐 PHP | 📅 2025-02-22<br>
   A curated list of resources for learning about application security.
 
-* [Awesome Forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,236 | 🐛 14 | 📅 2026-09-26<br>
+* [Awesome Forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,237 | 🐛 14 | 📅 2026-09-26<br>
   A curated list of awesome forensic analysis tools and resources.
 
-* [Awesome YARA](https://github.com/InQuest/awesome-yara) ⭐ 4,313 | 🐛 3 | 📅 2026-06-15<br>
+* [Awesome YARA](https://github.com/InQuest/awesome-yara) ⭐ 4,314 | 🐛 3 | 📅 2026-06-15<br>
   A curated list of awesome YARA rules, tools, and people.
 
 * [Awesome Sec Talks](https://github.com/PaulSec/awesome-sec-talks) ⭐ 4,246 | 🐛 0 | 📅 2026-02-17<br>
@@ -880,4 +880,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
